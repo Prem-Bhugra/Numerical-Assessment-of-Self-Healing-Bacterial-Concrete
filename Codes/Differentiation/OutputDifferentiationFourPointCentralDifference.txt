@@ -1,0 +1,2 @@
+The derivative of stress vs strain curve for Controlled Concrete at x = 0.001 is 41884.8
+The derivative of stress vs strain curve for Bacterial Concrete at x = 0.001 is 52312.8

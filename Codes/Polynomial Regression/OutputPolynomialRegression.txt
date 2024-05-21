@@ -1,0 +1,8 @@
+Enter the value of Xs
+The values of coefficients are:
+-0.520595
+56698.3
+-5.02749e+007
+6.00584e+010
+-2.48216e+013
+3.05535e+015

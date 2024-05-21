@@ -1,0 +1,6 @@
+--------------------------------------------------------------------
+The constants for modified Saenz Model determined by multilinear model for controlled concrete: 
+ A is: 33033.4
+ B is: 166.262
+ C is:  -121982
+----------------------------- Thank you  ---------------------------

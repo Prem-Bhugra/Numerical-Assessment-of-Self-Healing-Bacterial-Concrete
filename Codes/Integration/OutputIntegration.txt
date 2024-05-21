@@ -1,0 +1,2 @@
+Area under the graph for Controlled Concrete = 0.15985
+Area under the graph for Bacterial Concrete = 0.212192
